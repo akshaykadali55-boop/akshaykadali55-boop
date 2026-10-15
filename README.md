@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github%20Banner.jpeg" width="100%" alt="Akshay Kadali Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Akshay Kadali</h1>
 
 <h3 align="center">🎓 B.Tech CSE Student | Aspiring Software Developer</h3>
